@@ -2,3 +2,5 @@ pandas
 matplotlib
 numpy
 ruff
+openpyxl
+termcolor
