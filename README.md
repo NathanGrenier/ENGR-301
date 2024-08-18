@@ -1,6 +1,6 @@
 # About
 
-TODO
+This repository is for the ENGR-301 investment project. In it are 2 jupyter notebooks containing code to help with some investment calculations and visualizations.
 
 # Getting Started
 
