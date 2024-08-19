@@ -1,3 +1,14 @@
 {
-  "cSpell.words": ["idxmax", "suptitle", "termcolor"]
+  "cSpell.words": [
+    "arrowprops",
+    "delaxes",
+    "idxmax",
+    "minorticks",
+    "suptitle",
+    "termcolor",
+    "textcoords",
+    "xycoords",
+    "xytext",
+    "ylim"
+  ]
 }
